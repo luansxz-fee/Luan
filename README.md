@@ -1,6 +1,5 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Luan+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Do+banco+de+dados+à+interface" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Luan+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Do+banco+de+dados+%C3%A0+interface" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/luan-henrique-b5826643b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:luanhenrique0989@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <a href="https://novao-front-r3mz.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
   <a href="https://wa.me/5511953640743"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -103,7 +102,7 @@ Plataforma criada para **ajudar pessoas que esquecem de tomar seus medicamentos*
 Se você tem um projeto interessante, uma vaga ou só quer trocar uma ideia sobre tecnologia, será um prazer falar com você.
 
 <p align="center">
-  <a href="https://linkedin.com/in/Luan Henrique">LinkedIn</a> •
+  <a href="https://linkedin.com/in/luan-henrique-b5826643b">LinkedIn</a> •
   <a href="mailto:luanhenrique0989@gmail.com">E-mail</a> •
   <a href="https://novao-front-r3mz.vercel.app/">Portfólio</a>
 </p>
