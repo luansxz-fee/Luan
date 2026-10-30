@@ -69,7 +69,7 @@ Plataforma criada para **ajudar pessoas que esquecem de tomar seus medicamentos*
 | 🎨 **[MedSync Frontend](https://github.com/luansxz-fee/front)** | Interface web do projeto, responsiva e fácil de usar. | `React` `TypeScript` |
 | 🔌 **[MedSync Backend](https://github.com/luansxz-fee/back)** | API que gerencia os dados e a regra de negócio do sistema. | `Node.js` `JavaScript` `SQL` |
 
-🔗 **[Ver projeto no ar](https://novao-front-r3mz.vercel.app/)** · 📂 **[Todos os repositórios](https://github.com/luansxz-fee?tab=repositories)**
+🔗 **[Ver projeto no ar](https://web-d5s0m4s8l-ferrekr.vercel.app/)** · 📂 **[Todos os repositórios](https://github.com/luansxz-fee?tab=repositories)**
 
 ---
 
